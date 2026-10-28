@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-label="Build with purpose. Engineer for tomorrow.">
-<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#35C7CD"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
-<rect width="1200" height="112" rx="16" fill="#0D1627"/>
-<path d="M36 20H1164M36 92H1164" stroke="#8AA9EC" stroke-opacity=".16"/>
-<rect x="36" y="20" height="2" width="100" rx="1" fill="url(#a)"><animate attributeName="x" values="36;1064;36" dur="11s" repeatCount="indefinite"/></rect>
-<text x="600" y="56" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#EFF5FF" letter-spacing="1.5">BUILD WITH PURPOSE.</text>
-<text x="600" y="79" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#90B5D9" letter-spacing="3">ENGINEER FOR TOMORROW</text>
-</svg>
