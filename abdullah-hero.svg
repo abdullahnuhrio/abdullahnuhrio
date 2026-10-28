@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Abdullah Nuhrio — Software Architect and .NET Developer</title>
+<desc id="desc">Dark editorial technology banner with subtle animated blue-violet accent, circuit lines and architectural motifs.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080F1D"/><stop offset=".6" stop-color="#10182A"/><stop offset="1" stop-color="#10102A"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#3CCDD2"/><stop offset=".56" stop-color="#7398FF"/><stop offset="1" stop-color="#C08DFF"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#627AFE" stop-opacity=".22"/><stop offset="1" stop-color="#627AFE" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#93A9D6" stroke-opacity=".085" stroke-width="1"/></pattern>
+  <clipPath id="clip"><rect width="1200" height="390" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1200" height="390" fill="url(#bg)"/>
+ <rect width="1200" height="390" fill="url(#grid)"/>
+ <circle cx="1005" cy="183" r="260" fill="url(#glow)"><animate attributeName="opacity" values=".6;1;.6" dur="7s" repeatCount="indefinite"/></circle>
+ <path d="M0 36H1200M0 354H1200" stroke="#B1C2F8" stroke-opacity=".13"/>
+ <rect x="52" y="44" width="143" height="26" rx="13" fill="#1B3544" stroke="#438C98" stroke-opacity=".65"/>
+ <circle cx="67" cy="57" r="4" fill="#51E2D3"><animate attributeName="opacity" values="1;.4;1" dur="2.6s" repeatCount="indefinite"/></circle>
+ <text x="80" y="61" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="11" letter-spacing="2" fill="#AEEAE7">BUILD / DESIGN</text>
+ <text x="49" y="161" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800" letter-spacing="-2" fill="#F6F8FF">ABDULLAH</text>
+ <text x="49" y="234" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800" letter-spacing="-2" fill="url(#accent)">NUHRIO</text>
+ <rect x="52" y="254" height="3" width="404" rx="2" fill="url(#accent)"><animate attributeName="width" values="130;404;130" dur="7s" repeatCount="indefinite"/></rect>
+ <text x="52" y="294" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#D1DCF2" letter-spacing="1.2">SOFTWARE ARCHITECT  /  .NET DEVELOPER</text>
+ <text x="52" y="323" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#8FA1BE" letter-spacing="1.3">ENTERPRISE SYSTEMS  •  CLEAN ARCHITECTURE  •  APIs</text>
+ <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+ <circle cx="965" cy="187" r="119" stroke="#7398FF" stroke-width="1" stroke-opacity=".4" stroke-dasharray="4 9"><animateTransform attributeName="transform" type="rotate" from="0 965 187" to="360 965 187" dur="55s" repeatCount="indefinite"/></circle>
+ <circle cx="965" cy="187" r="89" stroke="#4CD3D1" stroke-width="1.5" stroke-opacity=".55"/>
+ <circle cx="965" cy="187" r="62" stroke="#7A96FE" stroke-width="2" stroke-opacity=".65"/>
+ <path d="M875 187H1055M965 97V277M902 124L1028 250M1028 124L902 250" stroke="#A5BAFF" stroke-width=".7" stroke-opacity=".25"/>
+ <path d="M921 175L944 151L967 175L990 151L1013 175L990 198L1013 221L990 244L967 221L944 244L921 221L944 198Z" stroke="url(#accent)" stroke-width="2.5"/>
+ <path d="M921 175L967 221L1013 175M944 151L990 198L944 244" stroke="#86B5EE" stroke-width="1.4" stroke-opacity=".85"/>
+ <path d="M698 84H800L833 117H869M735 293H817L855 255H883M1076 109H1123V63M1076 276H1147V326" stroke="#6795DD" stroke-opacity=".38" stroke-width="1.5"/>
+ <circle cx="833" cy="117" r="4" fill="#51D8D8"/><circle cx="855" cy="255" r="4" fill="#9B89FF"/>
+ <circle r="5" fill="#6DF7D8"><animateMotion dur="9s" repeatCount="indefinite" path="M 698 84 H 800 L 833 117 H 869"/></circle>
+ </g>
+ <text x="52" y="373" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2" fill="#7891B2">ABDULLAHDEV.ONLINE</text>
+ <text x="1145" y="373" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2" fill="#7891B2">ENGINEERED WITH INTENTION</text>
+</g>
+</svg>
